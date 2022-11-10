@@ -1,6 +1,6 @@
-# Cat-Hipstarizer Clone Project & Review and Research
+# Cat-Hipstarizer Project & Review and Research
 
-The project is a clone project of the YouTube Video: https://www.youtube.com/watch?v=7_97SlAigPs&list=PL-xmlFOn6TULrmwkXjRCDAas0ixd_NtyK&index=53&t=66s
+The project has a reference the following YouTube Video: https://www.youtube.com/watch?v=7_97SlAigPs&list=PL-xmlFOn6TULrmwkXjRCDAas0ixd_NtyK&index=53&t=66s
 and the Youtuber's GitHub code: https://github.com/kairess/cat_hipsterizer
 
 The dataset is from Kaggle: https://www.kaggle.com/crawford/cat-dataset
